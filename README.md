@@ -105,7 +105,7 @@ A aplicação possui endpoints para realizar operações de CRUD nas diferentes 
   Made by: Robson Lucas Messias | <a href="mailto:robsonlmds@hotmail.com">Contato</a>
 </h4>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/r-lucas-messias/">
+  <a href="https://www.linkedin.com/in/r-lucas-messias/">
     <img alt="Robson Lucas Messias" src="https://img.shields.io/badge/LinkedIn-R.Lucas_Messias-0e76a8?style=flat&logoColor=white&logo=linkedin">
   </a>
 </p>
